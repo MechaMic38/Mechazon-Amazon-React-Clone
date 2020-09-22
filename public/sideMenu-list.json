@@ -1,0 +1,2668 @@
+{
+  "main": [
+    {
+      "text": "SHOP BY CATEGORY",
+      "isLink": false,
+      "isTitle": true,
+      "isSeparator": false
+    },
+    {
+      "text": "Mechazon Music",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Kindle E-readers & Books",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Appstore for Android",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": true
+    },
+    {
+      "text": "Electronics",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Computers",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Smart Home",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Arts & Crafts",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Automotive",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Baby",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Beauty and personal care",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Women's Fashion",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Men's Fashion",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Girls' Fashion",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Boys' Fashion",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Health and Household",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Home and Kitchen",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Industrial and Scientific",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Luggage",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Movies & Television",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Pet Supplies",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Software",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Sports and Outdoors",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Tools & Home Improvement",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Toys and Games",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Video Games",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": true
+    },
+    {
+      "text": "Gift Cards",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "#FoundItOnMechazon",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Mechazon live",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "International Shopping",
+      "isLink": true,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Mechazon Second Chance",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Full Store Directory",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": true
+    },
+    {
+      "text": "HELP & SETTINGS",
+      "isLink": false,
+      "isTitle": true,
+      "isSeparator": false
+    },
+    {
+      "text": "Your Account",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": false
+    },
+    {
+      "text": "Help",
+      "isLink": false,
+      "isTitle": false,
+      "isSeparator": false
+    }
+  ],
+  "secondary": [
+    {
+      "menu2": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "STREAM MUSIC",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Music Unlimited",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Music HD",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Prime Music",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Free Streaming Music",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Open Web Player",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "BUY MUSIC",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "CDs & Vinyl",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Download Store",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu3": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "KINDLE E-READERS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Kids Edition",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Paperwhite",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Oasis",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "See all Kindle E-Readers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "KINDLE STORE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Books",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Unlimited",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Prime Reading",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "APPS & RESOURCES",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Free Kindle Reading Apps",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kindle Cloud Reader",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Manage Your Content And Devices",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu4": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "APPSTORE FOR ANDROID",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "All Apps and Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Coins",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Download Mechazon Appstore",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Apps",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Your Apps and Subscriptions",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu5": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "ELECTRONICS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories and Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Camera & Photo",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Car & Vehicle Electronics",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Cell Phones & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Computers & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "GPS & Navigation",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Headphones",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Home Audio",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Office Electronics",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Portable Audio & Video",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Security & Surveillance",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Service Plans",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Television & Video",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Video Game Consoles & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Video Projectors",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Wearable Technology",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "eBook Readers & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu6": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "COMPUTERS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Computer Accessories & Peripherals",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Computer Components",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Computers & Tablets",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Data Storage",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "External Components",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Laptop Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Monitors",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Networking Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Power Strips & Surge Protectors",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Printers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Scanners",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Servers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tablet Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tablet Replacement Parts",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Warranties & Services",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu7": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "SMART HOME",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Smart Home",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lighting",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Door Locks",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Cameras",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Plugs",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Other Smart Solutions",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Thermostats",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Security Systems",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Televisions",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Speakers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Voice Assistants",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kitchen",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Vacuums",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Printers and PC",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Network and Wifi",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "New to Smart Home",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu8": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "ARTS & CRAFTS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Painting, Drawing & Art Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Beading & Jewerly Making",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Crafting",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fabric",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fabric Decorating",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Knitting & Crochet",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Needlework",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Organization, Storage & Transport",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Printmaking",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Scrapbooking & Stamping",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sewing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Party Decorations & Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Gift Wrapping Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu9": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "AUTOMOTIVE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Car Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Car Electronics & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Exterior Acessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Interior Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lights & Lighting Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Motorcycle & Powersports",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Oils & Fluids",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Paint & Paint Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Performance Parts & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Replacement Parts",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "RV Parts & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tires & Wheels",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tools & Equipment",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Automotive Enthusiast Merchandise",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Heavy Duty & Commercial Vehicle Equipment",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu10": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "BABY",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Activity & Entertainment",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Apparel & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Baby & Toddler Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Baby Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Baby Stationery",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Car Seats & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Diapering",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Feeding",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Gifts",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Nursery",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Potty Training",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Pregnancy & Maternity",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Safety",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Strollers & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Travel Gear",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu11": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "BEAUTY AND PERSONAL CARE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Makeup",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Skin Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Hair Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fragrance",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Foot, Hand & Nail Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tools & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Shave & Hair Removal",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Personal Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Oral Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu12": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "WOMEN'S FASHION",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Clothing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Shoes",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Jewelry",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Watches",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Handbags",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Men's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Girls' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Boys' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu13": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "MEN'S FASHION",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Clothing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Shoes",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Watches",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Women's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Girls' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Boys' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu14": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "GIRLS' FASHION",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Clothing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Shoes",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Jewelry",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Watches",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "School Uniforms",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Women's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Men's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Boys' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu15": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "BOYS' FASHION",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Clothing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Shoes",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Jewelry",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Watches",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "School Uniforms",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Women's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Men's Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Girls' Fashion",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu16": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "HEALTH AND HOUSEHOLD",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Baby & Child Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Health Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Household Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Medical Supplies & Equipment",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Oral Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Personal Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sexual Wellness",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sports Nutrition",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Stationery & Gift Wrapping Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Vision Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Vitamins & Dietary Supplements",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Wellness & Relaxation",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu17": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "HOME AND KITCHEN",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids' Home Store",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kitchen & Dining",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Bedding",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Bath",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Furniture",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Home Décor",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Wall Art",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lighting & Ceiling Fans",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Seasonal Décor",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Event & Party Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Heating, Cooling & Air Quality",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Irons & Steamers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Vacuums & Floor Care",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Storage & Organization",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Cleaning Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu18": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "INDUSTRIAL AND SCIENTIFIC",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Abrasive & Finishing Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Additive Manufacturing Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Commercial Door Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Cutting Tools",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fasteners",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Filtration",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Food Service Equipment & Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Hydraulics, Pneumatics & Plumbing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Industrial Electrical",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Industrial Hardware",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Industrial Power & Hand Tools",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Janitorial & Sanitaion Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lab & Scientific Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Material Handling Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Occupational Health & Safety Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Packaging & Shipping Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Power Transmission Products",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Professional Dental Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Professional Medical Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Raw Materials",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Retail Store Fixtures & Equipment",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Robotics",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Science Education",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tapes, Adhesives & Sealants",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Test, Measure & Inspect",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu19": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "LUGGAGE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Carry-ons",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Backpacks",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Garment Bags",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Travel Totes",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Luggage Sets",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Laptop Bags",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Suitcases",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids Luggage",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Messenger Bags",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Umbrellas",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Duffles",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Travel Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu20": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "MOVIES & TELEVISION",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Movies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "TV Shows",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Blu-ray",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "4K Ultra HD",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Best Sellers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Today's Deals",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "New Releases",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Pre-orders",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids & Family",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Prime Video",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu21": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "PET SUPPLIES",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Dogs",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Cats",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fish & Aquatic Pets",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Birds",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Horses",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Reptiles & Amphibians",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Small Animals",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu22": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "SOFTWARE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Accounting & Finance",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Antivirus & Security",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Business & Office",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Children's",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Design & Illustration",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Digital Software",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Education & Reference",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lifestyle & Hobbies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Music",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Networking & Servers",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Operating Systems",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Photography",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Programming & Web Development",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tax Preparation",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Utilities",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Video",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu23": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "SPORTS AND OUTDOORS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Sports and Outdoors",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Outdoor Recreation",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sports & Fitness",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Fan Shop",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu24": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "TOOLS & HOME IMPROVEMENT",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Tools & Home Improvement",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Appliances",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Building Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Electrical",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Hardware",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kitchen & Bath Fixtures",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Light Bulbs",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Lighting & Ceiling Fans",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Measuring & Layout Tools",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Painting Supplies & Wall Treatments",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Power & Hand Tools",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Rough Plumbing",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Safety & Security",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Storage & Home Organization",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Welding & Soldering",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu25": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "TOYS AND GAMES",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Action Figures & Statues",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Arts & Crafts",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Baby & Toddler Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Building Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Dolls & Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Dress Up & Pretend Play",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids' Electronics",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Grown-Up Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Hobbies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids' Furniture, Décor & Storage",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Learning & Education",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Novelty & Gag Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Party Supplies",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Puppets",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Puzzles",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sports & Outdoor Play",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Stuffed Animals & Plush Toys",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Toy Remote Control & Play Vehicles",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Tricyles, Scooters & Wagons",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Video Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu26": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "VIDEO GAMES",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Video Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "PlayStation 4",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "PlayStation 3",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Xbox One",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Xbox 360",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Nintendo Switch",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Wii U",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Wii",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "PC",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Mac",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Nintendo 3DS & 2DS",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Nintendo DS",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "PlayStation Vita",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Sony PSP",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Retro Gaming & Microconsoles",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Accessories",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Digital Games",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Kids & Family",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu27": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "GITF CARDS",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "All gift cards",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "eGift cards",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Gift card by mail",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Reload your balance",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Mechazon Cash",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Third-party gift cards",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu28": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "MECHAZON LIVE",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Live",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Recently Live",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    },
+    {
+      "menu29": [
+        {
+          "text": "",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": true
+        },
+        {
+          "text": "INTERNATIONAL SHOPPING",
+          "isLink": false,
+          "isTitle": true,
+          "isSeparator": false
+        },
+        {
+          "text": "Where we ship",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        },
+        {
+          "text": "Visit Mechazon Global",
+          "isLink": false,
+          "isTitle": false,
+          "isSeparator": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.orderItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 200px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.orderItem > img {
+  flex: 1;
+  max-height: 200px;
+  object-fit: contain;
+}
+.orderItem_details {
+  flex: 1;
+  position: relative;
+}
+.product__price {
+  margin-top: 5px;
+}
+.product__rating {
+  display: flex;
+  margin-top: 5px;
+}
+.product__info,
+.product__bought {
+  width: 100%;
+  margin-bottom: 15px;
+}
