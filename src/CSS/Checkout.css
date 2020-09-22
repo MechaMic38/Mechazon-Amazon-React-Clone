@@ -3,6 +3,7 @@
   padding: 20px;
   background-color: white;
   height: max-content;
+  min-height: calc(100vh - 60px);
 }
 .checkout__ad {
   width: 100%;
