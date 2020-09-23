@@ -35,8 +35,6 @@ function Payment() {
     getClientSecret();
   }, [basket]);
 
-  console.log("THE SECRET IS >>> ", clientSecret);
-
   const getTotalItems = () => {
     return basket.reduce(
       (total, currentItem) => (total += currentItem.count),

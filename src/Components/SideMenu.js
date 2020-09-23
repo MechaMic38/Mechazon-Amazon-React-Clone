@@ -31,9 +31,14 @@ function SideMenu() {
     Initializes Close Icon functionality -> Closes Side Menu
     ======================================================*/
     menu_closeIcon.on("click", function () {
-      menuBackground.toggleClass("opaque transparent");
-      menuCanvas.toggleClass("translate-zero translate-left");
-      menu_closeIcon.toggleClass("opaque transparent");
+      menuBackground.removeClass("opaque");
+      menuBackground.addClass("transparent");
+
+      menuCanvas.removeClass("translate-zero");
+      menuCanvas.addClass("translate-left");
+
+      menu_closeIcon.removeClass("opaque");
+      menu_closeIcon.addClass("transparent");
     });
 
     /*======================================================
