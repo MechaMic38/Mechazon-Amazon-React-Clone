@@ -16,7 +16,7 @@
 .login__container {
   display: flex;
   flex-direction: column;
-  width: 300px;
+  width: 280px;
   height: fit-content;
   border-radius: 5px;
   border: 1px solid lightgray;

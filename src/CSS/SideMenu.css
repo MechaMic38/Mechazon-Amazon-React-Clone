@@ -7,6 +7,9 @@
   transition: 500ms ease-in-out;
   pointer-events: none;
 }
+.sideMenu__canvasBackground.opaque {
+  pointer-events: all;
+}
 .sideMenu__canvas {
   z-index: 102;
   position: fixed;
@@ -173,4 +176,10 @@
 }
 .translate-right {
   transform: translateX(100%);
+}
+
+@media only screen and (max-width: 480px) {
+  .sideMenu__canvas {
+    width: 280px;
+  }
 }

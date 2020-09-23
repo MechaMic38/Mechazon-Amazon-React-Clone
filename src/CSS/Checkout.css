@@ -5,6 +5,12 @@
   height: max-content;
   min-height: calc(100vh - 60px);
 }
+.checkout__left {
+  flex: 0.8;
+}
+.checkout__right {
+  flex: 0.2;
+}
 .checkout__ad {
   width: 100%;
   margin-bottom: 10px;
@@ -19,4 +25,16 @@
   padding: 10px 10px 0 10px;
 
   font-weight: 400;
+}
+
+@media only screen and (max-width: 1080px) {
+  .checkout {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .checkout {
+    min-height: calc(100vh - 150px);
+  }
 }

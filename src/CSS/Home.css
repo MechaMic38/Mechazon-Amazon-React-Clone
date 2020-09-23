@@ -24,3 +24,9 @@
     flex-wrap: wrap;
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .home__image {
+    margin-bottom: -50px;
+  }
+}

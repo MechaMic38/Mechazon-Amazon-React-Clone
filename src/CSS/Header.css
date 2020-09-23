@@ -9,6 +9,13 @@
   top: 0;
   z-index: 100;
 }
+.header__container {
+  display: flex;
+  align-items: center;
+}
+.header__container.extend {
+  flex: 1;
+}
 .header__menuIcon {
   padding: 5px;
   height: 22px !important;
@@ -45,18 +52,31 @@
   height: 22px !important;
   color: #ddd;
   background: #682f8a;
+  cursor: pointer;
 }
 .header__nav {
   display: flex;
   justify-content: space-evenly;
 }
+.header__nav a {
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+  border: 1px solid rgba(221, 221, 221, 0);
+}
+.header__nav a:hover {
+  border: 1px solid rgba(221, 221, 221, 1);
+}
 .header__option {
   display: flex;
   flex-direction: column;
-  margin-left: 10px;
-  margin-right: 10px;
+  justify-content: space-evenly;
+  margin-left: 5px;
+  margin-right: 5px;
   color: white;
+  padding: 0 5px;
 }
+
 .header__optionBasket {
   display: flex;
   align-items: center;
@@ -72,4 +92,21 @@
 .header__basketCount {
   margin-left: 10px;
   margin-right: 10px;
+}
+
+@media only screen and (max-width: 650px) {
+  .header {
+    flex-direction: column;
+    height: 150px;
+  }
+  .header__container {
+    width: 100%;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+  }
+  .header__nav {
+    width: 100%;
+    text-align: center;
+  }
 }

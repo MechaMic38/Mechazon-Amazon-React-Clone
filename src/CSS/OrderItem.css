@@ -10,9 +10,11 @@
 .orderItem > img {
   flex: 1;
   max-height: 200px;
+  max-width: 300px;
   object-fit: contain;
 }
 .orderItem_details {
+  padding-left: 20px;
   flex: 1;
   position: relative;
 }
@@ -27,4 +29,22 @@
 .product__bought {
   width: 100%;
   margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 800px) {
+  .orderItem {
+    flex-direction: column;
+    border-bottom: 2px solid rgba(234, 237, 237, 1);
+  }
+  .orderItem > img {
+    max-width: 100%;
+  }
+  .orderItem_details {
+    width: 100%;
+    padding-left: 0;
+    margin-top: 25px;
+  }
+  .order__total {
+    margin-top: 25px;
+  }
 }

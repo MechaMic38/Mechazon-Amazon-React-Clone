@@ -10,27 +10,29 @@
 .basketItem > img {
   flex: 1;
   max-height: 200px;
+  max-width: 300px;
   object-fit: contain;
 }
 .basketItem_details {
+  padding-left: 20px;
   flex: 1;
   position: relative;
 }
 .basketItem_details > button {
   background: #d1a9e9;
   border: 1px solid;
-  border-radius: 2px;
-  padding: 5px 10px;
+  border-radius: 3px;
+  padding: 10px 20px;
   margin-top: 10px;
-  margin-left: auto;
-  margin-right: auto;
   border-color: #682f8a #713397 #5f3578;
   color: #111;
   outline: none;
+  transition: 50ms ease-in-out;
+  cursor: pointer;
 }
 .basketItem_details > button:hover {
   transform: scale(1.03);
-  transform-origin: center;
+  transform-origin: center center;
 }
 .product__price {
   margin-top: 5px;
@@ -51,12 +53,28 @@
 
   min-width: 120px;
   border: 1px solid;
-  border-radius: 2px;
-  padding: 5px 10px;
+  border-radius: 3px;
+  padding: 10px 20px;
 
   text-align: center;
   background: #e7e9ec;
   border-color: #adb1b8 #a2a6ac #8d9096;
   color: #111;
   outline: none;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 730px) {
+  .basketItem {
+    flex-direction: column;
+    border-bottom: 2px solid rgba(234, 237, 237, 1);
+  }
+  .basketItem > img {
+    max-width: 100%;
+  }
+  .basketItem_details {
+    width: 100%;
+    padding-left: 0;
+    margin-top: 25px;
+  }
 }
