@@ -45,7 +45,10 @@ function Subtotal() {
         prefix={"$"}
       />
 
-      <button onClick={(e) => history.push("/payment")}>
+      <button
+        disabled={getTotalItems() == 0}
+        onClick={(e) => history.push("/payment")}
+      >
         Proceed to Checkout
       </button>
     </div>
