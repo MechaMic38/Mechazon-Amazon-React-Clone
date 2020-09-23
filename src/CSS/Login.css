@@ -18,7 +18,7 @@
   flex-direction: column;
   width: 280px;
   height: fit-content;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 1px solid lightgray;
   padding: 20px;
 }
@@ -31,6 +31,7 @@
 }
 .login__container > form > input {
   height: 30px;
+  border-radius: 3px;
   margin-bottom: 10px;
   background-color: white;
   width: 98%;
@@ -42,22 +43,31 @@
 
 .login__signInButton {
   background: #d1a9e9;
-  border-radius: 2px;
-  height: 30px;
   width: 100%;
   border: 1px solid;
+  border-radius: 3px;
+  padding: 10px 20px;
   margin-top: 10px;
   border-color: #682f8a #713397 #5f3578;
+  color: #111;
+  outline: none;
+  transition: 50ms ease-in-out;
+  cursor: pointer;
 }
 .login__registerButton {
-  border-radius: 2px;
-  height: 30px;
   width: 100%;
   border: 1px solid;
+  border-radius: 3px;
+  padding: 10px 20px;
   margin-top: 10px;
   border-color: lightgray;
+  color: #111;
+  outline: none;
+  transition: 50ms ease-in-out;
+  cursor: pointer;
 }
-.login__container > button:hover {
+.login__container > button:hover,
+.login__signInButton:hover {
   transform: scale(1.03);
-  transform-origin: center;
+  transform-origin: center center;
 }

@@ -98,7 +98,7 @@ function Header() {
 
           <Link to="/checkout">
             <div className="header__optionBasket">
-              <ShoppingBasketIcon />
+              <ShoppingBasketIcon className="header__basket" />
               <span className="header__optionLineTwo header__basketCount">
                 {getTotalItems()}
               </span>

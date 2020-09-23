@@ -10,6 +10,7 @@
   z-index: 100;
 }
 .header__container {
+  position: relative;
   display: flex;
   align-items: center;
 }
@@ -37,7 +38,7 @@
   display: flex;
   flex: 1;
   align-items: center;
-  border-radius: 2px;
+  border-radius: 3px;
   overflow: hidden;
 }
 .header__searchInput {
@@ -89,6 +90,9 @@
   font-size: 13px;
   font-weight: 800;
 }
+.header__basket {
+  margin-left: 10px;
+}
 .header__basketCount {
   margin-left: 10px;
   margin-right: 10px;
@@ -108,5 +112,9 @@
   .header__nav {
     width: 100%;
     text-align: center;
+  }
+  .header__menuIcon {
+    position: absolute;
+    left: 0;
   }
 }
