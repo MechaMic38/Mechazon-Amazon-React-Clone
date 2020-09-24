@@ -9,6 +9,8 @@ function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
+  /*=================================================
+  Responsible for signing in the user*/
   const signIn = (e) => {
     e.preventDefault();
 
@@ -21,6 +23,8 @@ function Login() {
       .catch((error) => alert(error.message));
   };
 
+  /*=================================================
+  Responsible for registering the user*/
   const register = (e) => {
     e.preventDefault();
 

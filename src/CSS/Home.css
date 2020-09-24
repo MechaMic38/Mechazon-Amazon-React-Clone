@@ -18,6 +18,20 @@
   margin-bottom: -150px;
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
+.BrainhubCarousel__container {
+  position: relative;
+  max-width: 100%;
+  margin-bottom: -150px;
+}
+.home__container {
+  max-width: 100%;
+  width: 100%;
+}
+.home__imageCarousel {
+  max-width: 100%;
+  -webkit-mask-image: linear-gradient(180deg, #000, transparent);
+  mask-image: linear-gradient(180deg, #000, transparent);
+}
 
 @media only screen and (max-width: 800px) {
   .home__row {
@@ -26,7 +40,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .home__image {
-    margin-bottom: -50px;
+  .BrainhubCarousel__container {
+    margin-bottom: -80px;
   }
 }

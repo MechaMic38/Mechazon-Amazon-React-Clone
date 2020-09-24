@@ -35,6 +35,8 @@ function Payment() {
     getClientSecret();
   }, [basket]);
 
+  /*=================================================
+  Calculates total items in basket*/
   const getTotalItems = () => {
     return basket.reduce(
       (total, currentItem) => (total += currentItem.count),
@@ -42,6 +44,8 @@ function Payment() {
     );
   };
 
+  /*=================================================
+  Calculates total value of the items in basket*/
   const getBasketTotal = (basket) => {
     let total = basket.reduce(
       (total, currentItem) => (total += currentItem.price * currentItem.count),
@@ -65,6 +69,8 @@ function Payment() {
     );
   });
 
+  /*=================================================
+  Responsible for the payment process*/
   const handleSubmit = async (event) => {
     // do all the fancy stripe stuff...
     event.preventDefault();
@@ -150,7 +156,11 @@ function Payment() {
                   thousandSeparator={true}
                   prefix={"$"}
                 />
-                <button disabled={processing || disabled || succeeded}>
+                <button
+                  disabled={
+                    processing || disabled || succeeded || getTotalItems() == 0
+                  }
+                >
                   <span>{processing ? <p>Processing</p> : "Buy Now"}</span>
                 </button>
               </div>

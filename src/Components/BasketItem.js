@@ -7,6 +7,8 @@ function BasketItem({ id, title, image, price, rating, count }) {
 
   const selectId = "numItems_" + id;
 
+  /*=================================================
+  Dispatches action to remove item from basket*/
   const removeFromBasket = () => {
     dispatch({
       type: "REMOVE_FROM_BASKET",
@@ -21,6 +23,8 @@ function BasketItem({ id, title, image, price, rating, count }) {
     });
   };
 
+  /*=================================================
+  Dispatches action to change number of that item in basket*/
   const changeCountInBasket = () => {
     let select = document.querySelector(`#${selectId}`);
     let numItems = parseInt(select.options[select.selectedIndex].value);
@@ -38,6 +42,8 @@ function BasketItem({ id, title, image, price, rating, count }) {
     });
   };
 
+  /*=================================================
+  Initializes the select buttons*/
   useEffect(() => {
     const select = document.querySelector(`#${selectId}`);
     const selectOptions = select.options;

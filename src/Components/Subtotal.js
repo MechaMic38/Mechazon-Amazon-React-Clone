@@ -8,6 +8,8 @@ function Subtotal() {
   const history = useHistory();
   const [{ basket }, dispatch] = useStateValue();
 
+  /*=================================================
+  Calculates total value of the items in basket*/
   const getBasketTotal = (basket) => {
     let total = basket.reduce(
       (total, currentItem) => (total += currentItem.price * currentItem.count),
@@ -16,6 +18,8 @@ function Subtotal() {
     return Math.round(total * 100) / 100;
   };
 
+  /*=================================================
+  Calculates total items in basket*/
   const getTotalItems = () => {
     return basket.reduce(
       (total, currentItem) => (total += currentItem.count),

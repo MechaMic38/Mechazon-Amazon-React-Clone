@@ -34,6 +34,8 @@ function Header() {
     });
   });
 
+  /*=================================================
+  Calculates total items in basket*/
   const getTotalItems = () => {
     return basket.reduce(
       (total, currentItem) => (total += currentItem.count),
@@ -41,12 +43,16 @@ function Header() {
     );
   };
 
+  /*=================================================
+  Signs out the user*/
   const handleAuthentication = () => {
     if (user) {
       auth.signOut();
     }
   };
 
+  /*=================================================
+  Displays the username*/
   const showUser = () => {
     if (user) {
       let index = user.email.indexOf("@");

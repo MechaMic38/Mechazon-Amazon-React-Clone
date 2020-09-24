@@ -8,6 +8,8 @@ import FlipMove from "react-flip-move";
 function Checkout() {
   const [{ basket, user }, dispatch] = useStateValue();
 
+  /*=================================================
+  Calculates total items in basket*/
   const itemsInBasket = basket.map((item) => {
     return (
       <div key={item.id}>

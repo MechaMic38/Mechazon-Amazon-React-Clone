@@ -8,6 +8,8 @@ function Orders() {
   const [{ basket, user }, dispatch] = useStateValue();
   const [orders, setOrders] = useState([]);
 
+  /*=================================================
+  Takes all the user's orders from database*/
   useEffect(() => {
     if (user) {
       db.collection("users")
