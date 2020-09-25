@@ -78,3 +78,15 @@
     margin-top: 25px;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .basketItem {
+    padding: 20px 0;
+  }
+  .basketItem_details > button {
+    padding: 10px 10px;
+  }
+  .basketItem_details > select {
+    padding: 10px 10px;
+  }
+}
