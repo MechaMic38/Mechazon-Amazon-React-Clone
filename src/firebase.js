@@ -1,7 +1,8 @@
 import firebase from "firebase";
+import { firebaseApiKey } from "./keys";
 
 const firebaseConfig = {
-  apiKey: "***REMOVED***",
+  apiKey: firebaseApiKey,
   authDomain: "challenge-f0ac9.firebaseapp.com",
   databaseURL: "https://challenge-f0ac9.firebaseio.com",
   projectId: "challenge-f0ac9",

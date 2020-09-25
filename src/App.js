@@ -13,10 +13,9 @@ import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 import SideMenu from "./Components/SideMenu";
 import Footer from "./Components/Footer";
+import { stripePublicKey } from "./keys";
 
-const promise = loadStripe(
-  "***REMOVED***"
-);
+const promise = loadStripe(stripePublicKey);
 
 function App() {
   const [{}, dispatch] = useStateValue();
