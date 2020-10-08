@@ -1,12 +1,14 @@
 import "../CSS/Product.css";
 import React from "react";
-import { useStateValue } from "../StateProvider";
+
+import { useStateValue } from "../Context API/StateProvider";
+import { Link } from "react-router-dom";
 
 function Product({ id, title, image, price, rating }) {
   const [{ basket }, dispatch] = useStateValue();
 
   /*==================================================
-  Dispatches action to add item from basket*/
+  Dispatches action to add item to basket*/
   const addToBasket = () => {
     dispatch({
       type: "ADD_TO_BASKET",
@@ -39,7 +41,14 @@ function Product({ id, title, image, price, rating }) {
 
       <img src={image} alt="" />
 
-      <button onClick={addToBasket}>Add to Basket</button>
+      <div className="product__buttons">
+        <Link to={`/product/${id}`}>
+          <button className="product__seeButton">See Product</button>
+        </Link>
+        <button className="product__addButton" onClick={addToBasket}>
+          Add to Basket
+        </button>
+      </div>
     </div>
   );
 }

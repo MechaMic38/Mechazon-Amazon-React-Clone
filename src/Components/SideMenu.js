@@ -1,10 +1,12 @@
 import "../CSS/SideMenu.css";
 import React, { useEffect, useState } from "react";
+
 import AccountCircleIcon from "@material-ui/icons/AccountCircle";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
 import ChevronLeftIcon from "@material-ui/icons/ChevronLeft";
 import CloseIcon from "@material-ui/icons/Close";
-import { useStateValue } from "../StateProvider";
+
+import { useStateValue } from "../Context API/StateProvider";
 import { Link } from "react-router-dom";
 import { auth } from "../firebase";
 import $ from "jquery";

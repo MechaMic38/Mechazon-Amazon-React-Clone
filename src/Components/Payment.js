@@ -1,8 +1,10 @@
 import "../CSS/Payment.css";
 import React, { useEffect, useState } from "react";
+
 import BasketItem from "./BasketItem";
+
 import { Link, useHistory } from "react-router-dom";
-import { useStateValue } from "../StateProvider";
+import { useStateValue } from "../Context API/StateProvider";
 import { CardElement, useElements, useStripe } from "@stripe/react-stripe-js";
 import CurrencyFormat from "react-currency-format";
 import axios from "../axios";

@@ -1,6 +1,7 @@
 import "../CSS/OrderItem.css";
 import React from "react";
-import { useStateValue } from "../StateProvider";
+
+import { useStateValue } from "../Context API/StateProvider";
 
 function OrderItem({ id, title, image, price, rating, count }) {
   const [{ basket }, dispatch] = useStateValue();

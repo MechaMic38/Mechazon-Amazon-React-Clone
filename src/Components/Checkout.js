@@ -1,8 +1,10 @@
 import "../CSS/Checkout.css";
 import React from "react";
+
 import Subtotal from "./Subtotal";
 import BasketItem from "./BasketItem";
-import { useStateValue } from "../StateProvider";
+
+import { useStateValue } from "../Context API/StateProvider";
 import FlipMove from "react-flip-move";
 
 function Checkout() {

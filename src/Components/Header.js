@@ -1,11 +1,14 @@
 import React, { useEffect } from "react";
 import "../CSS/Header.css";
+
 import logo from "../Images/amazon-logo-white.png";
+
 import SearchIcon from "@material-ui/icons/Search";
 import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import MenuIcon from "@material-ui/icons/Menu";
+
 import { Link } from "react-router-dom";
-import { useStateValue } from "../StateProvider";
+import { useStateValue } from "../Context API/StateProvider";
 import { auth } from "../firebase";
 import $ from "jquery";
 

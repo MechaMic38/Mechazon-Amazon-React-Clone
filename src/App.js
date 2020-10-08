@@ -1,18 +1,21 @@
 import "./CSS/App.css";
 import React, { useEffect } from "react";
+
 import Header from "./Components/Header.js";
 import Home from "./Components/Home.js";
 import Checkout from "./Components/Checkout.js";
 import Login from "./Components/Login";
 import Payment from "./Components/Payment";
 import Orders from "./Components/Orders";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { auth } from "./firebase";
-import { useStateValue } from "./StateProvider";
-import { loadStripe } from "@stripe/stripe-js";
-import { Elements } from "@stripe/react-stripe-js";
 import SideMenu from "./Components/SideMenu";
 import Footer from "./Components/Footer";
+import ProductPage from "./Components/ProductPage";
+
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { auth } from "./firebase";
+import { useStateValue } from "./Context API/StateProvider";
+import { loadStripe } from "@stripe/stripe-js";
+import { Elements } from "@stripe/react-stripe-js";
 import { stripePublicKey } from "./keys";
 
 const promise = loadStripe(stripePublicKey);
@@ -42,6 +45,12 @@ function App() {
     <Router>
       <div className="app">
         <Switch>
+          <Route exact path="/product/:id">
+            <SideMenu />
+            <Header />
+            <ProductPage />
+            <Footer />
+          </Route>
           <Route path="/orders">
             <SideMenu />
             <Header />

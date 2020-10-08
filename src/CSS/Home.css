@@ -18,7 +18,7 @@
   margin-bottom: -150px;
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
-.BrainhubCarousel__container {
+.home .BrainhubCarousel__container {
   position: relative;
   max-width: 100%;
   margin-bottom: -150px;
@@ -40,7 +40,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .BrainhubCarousel__container {
+  .home .BrainhubCarousel__container {
     margin-bottom: -80px;
   }
 }

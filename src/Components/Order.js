@@ -1,8 +1,10 @@
 import "../CSS/Order.css";
 import React from "react";
+
+import OrderItem from "./OrderItem";
+
 import moment from "moment";
 import CurrencyFormat from "react-currency-format";
-import OrderItem from "./OrderItem";
 
 function Order({ order }) {
   return (

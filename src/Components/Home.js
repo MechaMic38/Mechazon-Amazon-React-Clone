@@ -1,7 +1,9 @@
 import "../CSS/Home.css";
 import React, { useEffect, useState } from "react";
+
 import Product from "./Product.js";
-import Carousel, { autoplayPlugin } from "@brainhubeu/react-carousel";
+
+import Carousel from "@brainhubeu/react-carousel";
 import "@brainhubeu/react-carousel/lib/style.css";
 
 function Home() {
@@ -92,7 +94,7 @@ function Home() {
                 id={product.id}
                 title={product.title}
                 price={product.price}
-                image={product.image}
+                image={product.image[0]}
                 rating={product.rating}
               />
             );
