@@ -1,0 +1,109 @@
+.productPage {
+  position: relative;
+  padding: 20px;
+  min-height: calc(100vh - 60px);
+}
+
+.productPage__main {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  min-height: calc(100vh - 140px);
+}
+
+.productPage__mainImage {
+  width: calc(60% - 20px);
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 0;
+}
+
+.productPage__mainDetails {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+.productPage__title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 30px;
+}
+.productPage__actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.productPage__actionsPrice {
+  font-size: 1.2rem;
+  color: #b12704;
+  margin-top: 5px;
+}
+.productPage__actionsAddButton {
+  background: #d1a9e9;
+  border: 1px solid;
+  border-radius: 3px;
+  padding: 10px 20px;
+  border-color: #682f8a #713397 #5f3578;
+  color: #111;
+  outline: none;
+  transition: 50ms ease-in-out;
+  cursor: pointer;
+}
+.productPage__actionsAddButton:hover {
+  transform: scale(1.03);
+  transform-origin: center center;
+}
+.productPage__rating {
+  display: flex;
+  margin-top: 10px;
+}
+.productPage__info {
+  width: 100%;
+  margin-bottom: 15px;
+}
+.productPage__separator {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  border-width: 0;
+  border-top: 1px solid #e7e7e7;
+  line-height: 19px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.productPage__descriptions {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 0;
+  font-size: 0.95rem;
+}
+.productPage__description {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+  .productPage__main {
+    flex-direction: column;
+  }
+
+  .productPage__mainImage {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+  .productPage__mainDetails {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .productPage {
+    min-height: calc(100vh - 150px);
+  }
+  .productPage__main {
+    min-height: calc(100vh - 230px);
+  }
+}
