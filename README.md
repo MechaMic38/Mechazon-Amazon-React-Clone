@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Mechazon, the Amazon Reactjs Clone
 
-## Available Scripts
+<p>
+  This is <strong>Mechazon</strong>, a clone inspired to Amazon.com, built with Reactjs and React Context API.
+  <br/>
+  To see the live website, click here: [Mechazon](https://challenge-f0ac9.web.app)
+</p>
 
-In the project directory, you can run:
+<p>
+  The website includes <strong>User Authentication</strong>, side <strong>Mega Menu</strong>, <strong>Image Carousels</strong> (both for the home page, and the sigle product pages), and <strong>Stripe Payment</strong> system (not working online, couldn't upgrade to Firebase Blaze plan, where the app is hosted)
+</p>
 
-### `npm start`
+## How It Works
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p>
+  When the <strong>Home</strong> pages loads, all products displayed are retrieved from a local JSON file, containing all information and images related to the items.
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p>
+  Same story for the <strong>Side Menu</strong>, since writing <strong>2700</strong> lines of code in HTML wouldn't have been a good idea <em>(no, I am not kidding)</em>, when the page loads, its dedicated React component fetches all data from another local JSON file containing all text and settings related to every voice of the mega menu.
+</p>
 
-### `npm test`
+<p>
+  When the user heads over one of the <strong>Product Pages</strong>, the dedicated component takes the ID of the product from the URL and fetches the item information from the JSON file, then displays them on the page, while also passing all its images to the Product Image Carousel.
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>
+  All data shared by the different pages (React Components) is shared by the React Context API, a better solution to prop drilling.
+</p>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h2>Hope you like it!</h2>
