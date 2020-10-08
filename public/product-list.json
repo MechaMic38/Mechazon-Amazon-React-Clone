@@ -4,106 +4,297 @@
       "id": "12321341",
       "title": "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners",
       "price": 25.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/8187Fs2zmrL.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/8187Fs2zmrL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91OePO-D3nL.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/819AUHctr8L.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "The second edition of this best-selling Python book (100,000+ copies sold in print alone) uses Python 3 to teach even the technically uninclined how to write programs that do in minutes what would take hours to do by hand. There is no prior programming experience required and the book is loved by liberal arts majors and geeks alike.",
+        "If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you?",
+        "In this fully revised second edition of the best-selling classic Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand--no prior programming experience required. You'll learn the basics of Python and explore Python's rich library of modules for performing specific tasks, like scraping data off websites, reading PDF and Word documents, and automating clicking and typing tasks.",
+        "Step-by-step instructions walk you through each program, and updated practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks."
+      ]
     },
     {
       "id": "3476527499823",
       "title": "ASUS ROG Strix B550-F Gaming AMD AM4 (3rd Gen Ryzen ATX Gaming Motherboard (PCIe 4.0, 2.5Gb LAN, BIOS Flashback, HDMI 2.1, Addressable Gen 2 RGB Header and Aura Sync)",
       "price": 189.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/818fDro1x9L._AC_SL1500_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/818fDro1x9L._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91wI71QuefL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91JQIHp4yKL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91V9-1O1zhL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81Pzus4CN%2BL._AC_SL1500_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "AMD AM4 Socket and PCIe 4. 0: The perfect pairing for 3rd Gen AMD Ryzen CPUs",
+        "Robust Power Design: 12+2 DrMOS power stages with high-quality alloy chokes and durable capacitors to provide reliable power for the latest high-core-count AMD CPUs",
+        "Optimized Thermal Solution: Fanless VRM and chipset heatsinks with ASUS Stack Cool 3+ design keep your system running reliably under heavy load by enhancing passive cooling capacity for critical onboard components.",
+        "High-performance Gaming Networking: On-board WiFi 6 (802. 11ax), Bluetooth V5. 1 and 2. 5 Gb LAN with ASUS LANGuard",
+        "Best Gaming Connectivity: Supports HDMI 2. 1 (4K@60HZ) and DisplayPort 1. 2 output, plus dual M. 2 slots (NVMe SSD)—one with PCIe 4. 0 x4 connectivity, USB 3. 2 Gen 2 Type-C port and Thunderbolt 3 header"
+      ]
     },
     {
       "id": "3254354345",
       "title": "New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)",
       "price": 598.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg",
-      "rating": 3
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/91dnRmJRg0L._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71oxyKvOTbL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81gyPqvQiDL._AC_SL1500_.jpg"
+      ],
+      "rating": 3,
+      "descriptions": [
+        "12.9-inch edge-to-edge Liquid Retina display with ProMotion, True Tone, and P3 wide color",
+        "A12Z Bionic chip with Neural Engine",
+        "12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner",
+        "7MP TrueDepth front camera",
+        "Face ID for secure authentication and Apple Pay",
+        "Four speaker audio and five studio-quality microphones",
+        "802.11ax Wi-Fi 6",
+        "Up to 10 hours of battery life",
+        "USB-C connector for charging and accessories",
+        "Support for Magic Keyboard, Smart Keyboard Folio, and Apple Pencil"
+      ]
     },
     {
       "id": "4903850",
       "title": "Samsung Gear Fit2 Pro Smartwatch Fitness Band (Large), Liquid Black, SM-R365NZKAXAR – US Version with Warranty",
       "price": 199.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Oicwj%2BhAL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GcGvHFCgL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61WFr0iH1vL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61skRyZMcvL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61skRyZMcvL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61EsXXAp9rL._AC_SL1000_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "Water resistant up to fifty meters, now you can own the pool, run in the rain and recover in the shower",
+        "Power through intervals to the beat of your favorite tracks with music storage on your Gear Fit2 Pro. Bullet Point : 802.11b/g/n 2.4 GHz",
+        "Boost every session with fitness apps powered by Under Armour. Count every mile on Map MyRun, and stay on top of your nutrition with MyFitnessPal. Dust and Water resistant : MIL STD 810G and 5ATM",
+        "Get a more accurate view of your performance and all day calorie burn with continuous heart rate monitoring. Battery - Battery Type and Size - 200mAh Li-ion. Typical Usage - Up to 3 days. Low Usage - Up to 5 days",
+        "Compatible with Android and iOS smartphones (compatible with select Bluetooth capable smartphones using Android OS 4.4 and later with at least 1.5GB RAM as well as iPhone 5 and later with iOS 9.0 and above. Refer user manual for troubleshooting instructions. Not all features available with iOS paired smartphones. Gear Fit2 Pro supported smartphones may vary by carrier and device. For a list of compatible smartphones and features, please visit Samsung.com. For best results, connect with compatible Samsung Galaxy smartphones.)"
+      ]
     },
     {
       "id": "23445930",
       "title": "Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric",
       "price": 98.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51hZ1Ix1bdL._AC_SL1000_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/51hZ1Ix1bdL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61fLi7StjWL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61nk5XeIqbL._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61f93nh6eGL._AC_SL1000_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "Includes Echo Dot (3rd gen) and Amazon Smart Plug – everything you need to start your smart home.",
+        "Echo Dot is our most popular voice-controlled speaker, now with improved sound and a new design.",
+        "With Echo Dot and Amazon Smart Plug, you can add voice control to any outlet.",
+        "Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.",
+        "Simple to set up and use—plug in, open the Alexa app, and start using your voice.",
+        "With 4 far-field microphones, Alexa hears you from across the room. And with compatible Echo devices in different rooms, you can fill your whole home with music.",
+        "No smart home hub required—set up routines and schedules through the Alexa app.",
+        "Amazon Smart Plug is for indoor use only, works exclusively with Alexa, and must be connected through a 2.4GHz Wi-Fi network."
+      ]
     },
     {
       "id": "90829332",
-      "title": "Samsung LC49RG90SSUXEN 49' Curved LED GAming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440",
+      "title": "Samsung 49-Inch CRG9 Curved Gaming Monitor (LC49RG90SSNXZA) – 120Hz Refresh, Ultrawide Screen QLED Computer Monitor, 5120 x 1440p Resolution, 4ms Response, FreeSync 2 with HDR, HDMI",
       "price": 1094.98,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/71916r38cNL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71VFvfYejJL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71tZW1aa%2BPL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71kfMPFIJiL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81GJtLYh6dL._AC_SL1500_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "49 inch super ultrawide dual QHD curved gaming monitor is the equivalent of dual 27-inch QHD displays side by side, providing the enhanced productivity.",
+        "120 hertz refresh rate with AMD FreeSync 2 technology for crisp HDR content display, reduced input latency and low framerate compensation",
+        "CES 2019 best of innovation Award Winner",
+        "HDR 1000 supports a peak brightness rating of 1,000 nits. With Samsung QLED technology delivering colors more-brighter and truer to life.",
+        "Super ultra-wide 49 inch monitor provides the enhanced productivity thru split screen functions like Picture-by-Picture (PBP), letting you connect to two devices while maintaining their original quality",
+        "Optimized for virtually any game genre including FPS, RTS, RPG and more"
+      ]
     },
     {
       "id": "2304835729",
       "title": "AUKEY FHD Webcam, 1080p Live Streaming Camera with Stereo Microphone, Desktop or Laptop USB Webcam for Widescreen Video Calling and Recording",
       "price": 54.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51NaTEP5xbL._AC_SL1500_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/51NaTEP5xbL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61DDTcq16eL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71Qp15vtvQL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61h61F4plFL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61pa1BGQ%2BmL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61uz%2BvWSIZL._AC_SL1500_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "Full HD Video: High-definition 1080p 2-megapixel webcam with 1/2.9” CMOS image sensor and built-in stereo microphones. Delivers sharp, smooth video for Skype chats and YouTube recordings",
+        "Live Streaming & Recording: Excellent video quality with 1080p streaming and recording at 30fps. Good performance even in dimly lit rooms. Fixed focus keeps things in focus up to five meters away. Stream and capture clearer and more detailed video, also with stereo sound",
+        "Fast Installation: Conveniently clip this camera onto flat-screen computer monitors and laptop computer screens or stand it on desks and other flat surfaces",
+        "Easy Use: No drivers or software to install; just plug this webcam into your device’s USB port. Compatible with Windows XP, Mac OS 10.6, and Android 5.0 or above",
+        "Package Contents: AUKEY PC-LM1E 1080p Webcam, User Manual"
+      ]
     },
     {
       "id": "3725435261",
       "title": "AMD Ryzen 7 3700X 8-Core, 16-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler",
       "price": 299.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/717Di3DGIbL._AC_SL1092_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/717Di3DGIbL._AC_SL1092_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71Lt8vopqLL._AC_SL1500_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "The world's most advanced processor in the desktop PC gaming segment",
+        "Can deliver ultra-fast 100+ FPS performance in the world's most popular games",
+        "8 cores and 16 processing threads, bundled with the AMD Wraith Prism cooler with color controlled LED support",
+        "4 4 GHz max boost unlocked for overclocking 36 MB of game cache DDR4 3200 MHz system memory specification",
+        "For the advanced socket AM4 platform can support PCIe 4 0 on x570 motherboards"
+      ]
     },
     {
       "id": "9385267154372",
       "title": "Samsung Electronics EVO Select 256GB microSDXC UHS-I U3 100MB/s Full HD & 4K UHD Memory Card with Adapter (MB-ME256HA)",
       "price": 31.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81Cmetw9jTL._AC_SL1500_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/81Cmetw9jTL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81jDn%2BNVi1L._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81sGbJmK1qL._AC_SL1500_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "Ideal for Recording 4K UHD Video: Samsung micro SD EVO Select is perfect for high res photos, gaming, music, tablets, laptops, action cameras, DSLR's, drones, smartphones (Galaxy S20 5G, S20+ 5G, S20 Ultra 5G, S10, S10+, S10e, S9, S9+, Note9, S8, S8+, Note8, S7, S7 Edge, etc. ), Android devices and more",
+        "Ultra Fast Read Write Speeds: Up to 100MB/S Read and 90MB/S Write Speeds; UHS Speed Class U3 and Speed Class 10 (Performance May Vary Based on Host Device, Interface, Usage Conditions, and Other Factors)",
+        "Built to Last Reliability: Memory Card Is Also Water Proof, Temperature Proof, X Ray Proof and Magnetic Proof",
+        "Extended Compatibility: Includes Full Size Adapter for Use in Cameras, Laptops and Desktop Computers",
+        "10 Year Limited : 10 Year Limited Does Not Extend to Dashcam , CCTV, Surveillance Camera and Other Write Intensive Uses"
+      ]
     },
     {
       "id": "538756436",
       "title": "VicTsing MM057 2.4G Wireless Mouse Portable Mobile Optical Mouse with USB Receiver, 5 Adjustable DPI Levels, 6 Buttons for Notebook, PC, Laptop, Computer, Macbook - Black",
       "price": 10.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71gK7VlDnGL._AC_SL1280_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/71gK7VlDnGL._AC_SL1280_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61kHPKilfzL._AC_SL1280_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/610VPPQGE6L._AC_SL1280_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61zTqAj17DL._AC_SL1280_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61QcIAMdmhL._AC_SL1280_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/719UNqhVo8L._AC_SL1172_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "【Comfortable Ergonomic Design】After thousands of samples of palm data, we designed this ergonomic mouse. The mouse has a streamlined arc and thumb rest to help reduce the stress caused by prolonged use of the mouse. The side pits help reduce slippage and maximize your feeling of use!",
+        "【Save Battery Life】Up to 15 months battery life, you don't need to worry about changing batteries frequently! This computer optical mouse will be in sleep mode in 8 minutes of inactivity. Press any button to wake it up. Note: powered by 1*AA battery (not included).",
+        "【Easy to Use】No need any driver, and you can plug and play the wireless mouse directly. Plug and play! This computer mouse support 33ft wireless connections, you can avoid being bothered by the power cord and use this mouse anytime, anywhere.",
+        "【Multi-function Wireless Mouse】5 levels DPI: 800/1200/1600/2000/2400, easily change the cursor sensitivity depending on your activity. Two side buttons that you can use to control page forward/backward for increased productivity. Advanced technology help mouse moves around the computer screen smoothly!",
+        "【Wide Compatibility】Well compatible with Windows7/8/10/XP, Vista7/8 and Linux etc. Fits for desktop, laptop, PC, Macbook and other devices. A universal portable mouse designed for office, family, travel, business meetings, etc.!"
+      ]
     },
     {
       "id": "4387562984",
       "title": "TP-Link AC750 WiFi Extender | Covers Up to 1200 Sq.ft and 20 Devices Up to 750Mbps| Dual Band WiFi Range Extender | WiFi Booster to Extend Range of WiFi Internet Connection (RE220)",
       "price": 29.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xNxQEJfkL._AC_SL1500_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/61xNxQEJfkL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61AEsgYgC%2BL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71HjNxI8yoL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51sq3Gsqf7L._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61SapTvixHL._AC_SL1500_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "Extend WiFi Coverage - Boost Internet WiFi Coverage up to 1200 Square feet and connects up to 20 devices - Compatible with WiFi Router, Gateway, Access Point ( 2.4GHz - 300Mbps / 5GHz - 433Mbps )",
+        "Eliminate WiFi Dead Zones - Enjoy Lag-Free connection to any type of devices, including wired devices via Fast Ethernet port. System Requirements - Microsoft Windows 98SE, NT, 2000, XP, Vista or Windows 7, 8, 10, Mac OS, NetWare, UNIX or Linux",
+        "Stay connected - Expand WiFi Coverage for your Smart Phones, Smart TV, Fire Stick, Google Chromecast, Web Browsing, Alexa Echo, Ring and more",
+        "Easy set up - Two simple taps and you are ready to connect, Smart indicator light helps to install in best optimal location",
+        "The Ethernet port of RE220 can easily turn your wired Internet connection into a wireless access point. It can also function as a wireless adapter to connect wired devices, like Blu-ray player, game console or smart TV",
+        "All WiFi extenders are designed to increase or improve WiFi coverage, not to directly increase speed. In some cases improving signal reliability can affect overall throughput"
+      ]
     },
     {
       "id": "32672354726111",
       "title": "Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2060 6GB, 15.6' Full HD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, Wi-Fi 6, RGB Keyboard, PH315-53-72XD",
       "price": 1196.28,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC_SL1500_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/71k45hZkLmL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61tYzKK76ML._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61%2B0c8tLl7L._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/719oM8HA5NL._AC_SL1051_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71bg1GGawML._AC_SL1000_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61R2Q-Yz0IL._AC_SL1000_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "10th Generation Intel Core i7-10750H 6-Core Processor (Up to 5.0 GHz) with Windows 10 Home 64 Bit",
+        "Overclockable NVIDIA GeForce RTX 2060 with 6 GB of dedicated GDDR6 VRAM",
+        "15.6' Full HD (1920 x 1080) Widescreen LED-backlit IPS display (144Hz Refresh Rate, 3ms Overdrive Response Time, 300nit Brightness & 72% NTSC)",
+        "16 GB DDR4 2933MHz Dual-Channel Memory, 512GB NVMe SSD (2 x M.2 slots | 1 Slot open for easy upgrades) & 1 - Available Hard Drive Bay",
+        "4-Zone RGB Backlit Keyboard | Wireless: Killer Double Shot Pro Wireless-AX 1650i 802. 11ax Wi-Fi 6 | LAN: Killer Ethernet E2600 10/100/1000 Gigabit Ethernet LAN | DTS X: Ultra Audio | 4th Gen All-Metal AeroBlade 3D Fan"
+      ]
     },
     {
       "id": "995467325333",
       "title": "MSI Gaming GeForce RTX 2060 6GB GDRR6 192-bit HDMI/DP Ray Tracing Turing Architecture VR Ready Graphics Card (RTX 2060 VENTUS XS 6G OC)",
       "price": 339.99,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OiXhD-hqL._AC_SL1024_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/61OiXhD-hqL._AC_SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61qEoHdD7sL._AC_SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61JT5vL8mCL._AC_SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61tG9%2Bxv1TL._AC_SL1024_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61jSX2smqRL._AC_SL1024_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "Chipset: NVIDIA GeForce RTX 2060",
+        "Boost Clock: 1710 MHz.Power consumption:160 W",
+        "Memory Interface: 192-bit",
+        "Video Memory: 6GB GDDR6",
+        "Output: DisplayPort x 3 (V1.4)/ HDMI 2.0B x 1"
+      ]
     },
     {
       "id": "438756545342",
       "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
       "price": 59.46,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41T53nRtyoL._SX258_BO1,204,203,200_.jpg",
-      "rating": 5
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/41T53nRtyoL._SX258_BO1,204,203,200_.jpg"
+      ],
+      "rating": 5,
+      "descriptions": [
+        "This two-book set combines the titles HTML & CSS: Designing and Building Web Sites and JavaScript & jQuery: Interactive Front-End Development. Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.",
+        "HTML & CSS covers structure, text, links, images, tables, forms, useful options, adding style with CSS, fonts, colors, thinking in boxes, styling lists and tables, layouts, grids, and even SEO, Google analytics, ftp, and HTML5. JavaScript & jQuery offers an excellent combined introduction to these two technologies using a clear and simple visual approach using diagrams, infographics, and photographs."
+      ]
     },
     {
       "id": "49538094",
-      "title": "Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl",
+      "title": "Kenwood KMC011 5 Quart Chef Titanium Kitchen Machine, Stainless Steel",
       "price": 239.0,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kj5nomj0L._AC_SL1500_.jpg",
-      "rating": 4
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/I/71kj5nomj0L._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71UJIVOFkUL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81ewGh83qlL._AC_SL1500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/71ce3XX7MjL._AC_SL1500_.jpg"
+      ],
+      "rating": 4,
+      "descriptions": [
+        "European-designed motor with twice the power of ordinary stand mixers delivers the right amount of torque and handles the heaviest dough loads. Dual Motor Ventilation prolongs motor life.",
+        "Kenwood's electronic variable speed control allows ingredients to gradually incorporate before mixing them at high speeds, so they stay in the bowl and not on your countertop.",
+        "Four built-in speed hubs allow you to add Kenwood attachments",
+        "5QT solid stainless steel work bowl with rugged handles, easy to remove from the machine. dishwasher safe (along with all the tools)",
+        "Includes 3 professional-quality, stainless steel bowl tools: power whisk, dough hook , the unique K-Beater (specially designed for maximum mixing performance)"
+      ]
     }
   ]
 }
